@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chijie An</h1>
 <h3 align="center">Senior student at NYU Shanghai, Data Science and Artificial Intelligence Intern at TikTok, ByteDance</h3>
-<p align="center">My undergraduate major is Honors Mathematics, and I am currently applying for a Master's program in Data Science and Computer Science related fields. I am passionate about leveraging data science and machine learning to solve real-world problems and make impact.</p>
+<p align="center">My undergraduate major is Honors Mathematics, and I am currently applying for a Master's program in Data Science and Computer Science related fields. I am passionate about leveraging data science and machine learning to solve real-world problems and make impact. In this Github page you can find my projects in various fields, including CV, NLP, and Computational Mathematics. Particularly, my long-term goal is to utilize the combined power of Reinforcement Learning, Multi-modal modeling and LLMs to build the next generation of intelligent system for data-drive decision-making. </p>
 
 <h3 align="left">Interests:</h3>
 
